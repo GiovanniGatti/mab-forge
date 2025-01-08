@@ -1,0 +1,6 @@
+.idea
+./dist
+.coverage
+.tox
+dist
+.pytest_cache
